@@ -1,0 +1,6 @@
+rm -rf *.h5
+./h4toh5 bp002.hdf
+./h4toh5 br002.hdf
+./h4toh5 bt002.hdf
+./h4toh5 rho002.hdf
+./h4toh5 t002.hdf
